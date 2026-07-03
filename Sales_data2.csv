@@ -1,0 +1,16 @@
+OrderId,Date,Region ,SalesPerson ,Product,Category,Quantity ,UnitPrice ,TotalSales ,Profit 
+1031,01-02-2025,North ,Rahul,Laptop,Electronic,2,56000,112000,18500
+1032,02-02-2025,South ,Priya,Mouse,Accessories,12,650,7800,1800
+1033,03-02-2025,East,Amit,Keyboard,Accessories,9,1250,11250,2600
+1034,04-02-2025,West,Neha,Moniter,Electronic,4,15500,62000,9500
+1035,05-02-2025,North ,Rohan,Printer,Electronic,2,12200,24400,4200
+1036,06-02-2025,South ,Anjali,Chair,Furniture,5,3700,18500,3600
+1037,07-02-2025,East,Vikram ,Desk ,Electronic,3,9500,28500,5000
+1038,08-02-2025,West,Sneha ,Laptop,Electronic,1,60500,60500,9800
+1039,09-02-2025,North ,Arjun,Table,Furniture,4,18200,72800,11000
+1040,10-02-2025,South ,Meera,Mouse,Accessories,15,640,9600,2400
+1041,11-02-2025,East,Karan,Keyboard,Accessories,11,1190,13090,3100
+1042,12-02-2025,West,Simran,Moniter,Electronic,3,14900,44700,7000
+1043,13-02-2025,North ,Rahul,Printer,Electronic,3,12000,36000,5800
+1044,14-02-2025,South ,Priya,Chair,Furniture,4,3900,15600,3200
+1045,15-02-2025,East,Amit,Desk ,Electronic,2,9800,19600,3400

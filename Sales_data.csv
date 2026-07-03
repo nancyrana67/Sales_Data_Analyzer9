@@ -1,0 +1,31 @@
+OrderID,Date,Region ,SalesPerson,Product,Category ,Quantity ,UnitPrice ,TotalSales ,Profit
+1001,02-01-2025,North ,Rahul,Laptop,Electronic,2,55000,110000,18000
+1002,03-01-2025,South ,Priya,Mouse,Accessories,10,600,6000,1500
+1003,04-01-2025,East,Amit ,Keyboard,Accessories,8,1200,9600,2400
+1004,05-01-2025,West,Neha,Moniter,Electronic,4,15000,60000,9000
+1005,06-01-2025,North ,Rohan ,Printer,Electronic,3,12000,36000,6000
+1006,07-01-2025,South ,Anjali,Chair,Furniture,6,3500,21000,4200
+1007,08-01-2025,East,Vikram,Desk,Furniture,2,9000,18000,3500
+1008,09-01-2025,West,Sneha ,Laptop,Electronic,1,60000,60000,10000
+1009,10-01-2025,North ,Arjun,Table,Furniture,5,18000,90000,12000
+1010,11-01-2025,South ,Meera,Mouse,Accessories,15,650,9750,2500
+1011,12-01-2025,East,Karan,Keyboard,Accessories,12,1100,13200,3200
+1012,13-01-2025,West,Simran,Moniter,Electronic,3,14500,43500,7200
+1013,14-01-2025,North ,Rahul,Printer,Electronic,2,12500,25000,4500
+1014,15-01-2025,South ,Priya,Chair,Furniture,5,3800,19000,3900
+1015,16-01-2025,East,Amit ,Desk,Furniture,3,9500,28500,5100
+1016,17-01-2025,West,Neha,Laptop,Electronic,2,57000,114000,21000
+1017,18-01-2025,North ,Rohan ,Table,Furniture,4,17000,68000,9800
+1018,19-01-2025,South ,Anjali,Mouse,Accessories,20,550,11000,2800
+1019,20-01-2025,East,Vikram,Keyboard,Accessories,9,1150,10350,2600
+1020,21-01-2025,West,Sneha ,Moniter,Electronic,5,14800,74000,11500
+1021,22-01-2025,North ,Arjun,Chair,Furniture,4,3600,14400,2900
+1022,23-01-2025,South ,Meera,Desk,Furniture,2,9200,18400,3000
+1023,24-01-2025,East,Karan,Laptop,Electronic,1,59000,59000,4500
+1024,25-01-2025,West,Simran,Table,Furniture,6,17500,105000,3600
+1025,26-01-2025,North ,Rahul,Printer,Electronic,3,11800,35400,25000
+1026,27-01-2025,South ,Priya,Mouse,Accessories,18,620,11160,2900
+1027,28-01-2025,East,Amit ,Keyboard,Accessories,10,1180,11800,3000
+1028,29-01-2025,West,Neha,Chair,Furniture,7,23800,166600,4500
+1029,30-01-2025,North ,Rohan ,Desk,Furniture,2,19600,39200,3600
+1030,31-01-2025,South ,Anjali,Laptop,Electronic,3,56500,169500,25000
